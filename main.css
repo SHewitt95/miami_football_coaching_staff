@@ -61,9 +61,13 @@ table {
   width: 100%;
   height: auto;
   display: block;
-  margin: 0 auto;
+  margin: 2em auto;
   overflow: hidden;
   position: relative;
+}
+
+.slider {
+  height: 250px;
 }
 
 .card {
@@ -72,6 +76,13 @@ table {
   background-color: #e5904e; /* TMH Orange */
   border: 5px solid #234e22; /* TMH Green */
   margin: 1em auto;
+  display: block;
+}
+
+.golden {
+  position: absolute;
+  top: 0;
+  left: 15%;
 }
 
 .richt {
