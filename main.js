@@ -1,7 +1,7 @@
 "use strict"
 
 $(document).ready(function() {
-
+/*
   var golden = $(".golden"),
       richt = $(".richt");
 
@@ -20,5 +20,11 @@ $(document).ready(function() {
 
   golden.on("click", changeCard);
   richt.on("click", changeCard);
+*/
 
+  $(".slider").flip({
+    axis: 'y',
+    trigger: 'click',
+    autoSize: false
+  });
 })

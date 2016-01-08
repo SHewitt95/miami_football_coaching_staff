@@ -48,9 +48,11 @@ table {
 }
 
 /******************************** End CSS Reset ********************************/
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 .container, .interactive {
   width: 90%;
+	min-width: 90%;
   height: auto;
   margin: 0 auto;
   display: block;
@@ -77,18 +79,60 @@ table {
   border: 5px solid #234e22; /* TMH Green */
   margin: 1em auto;
   display: block;
+	left: 15%;
+}
+
+.card .info {
+	display: inline-block;
+	position: relative;
+}
+
+.card .img_box {
+	overflow: hidden;
+	height: 100%;
+	width: 30%;
+}
+
+.card .img_box img {
+	width: 100%;
+	position: relative;
+	bottom: 1em;
+}
+
+.card .content {
+	/*left: 16.15em;*/
+	width: 60%;
+	height: 100%;
+	bottom: 3em;
+	padding-left: 1em;
+}
+
+.card .content ul {
+
+}
+
+.card .content ul li {
+	line-height: 1.35;
+	font-size: 1.75em;
+	font-family: "Open Sans", "Arial", sans-serif;
+}
+
+.card .content ul .coach {
+	font-style: italic;
+	border-bottom: 1px solid black;
+	line-height: 1;
+	margin-bottom: 0.25em;
 }
 
 .golden {
   position: absolute;
   top: 0;
-  left: 15%;
+  /*left: 15%;*/
 }
 
 .richt {
   position: absolute;
   top: 0;
-  left: 9999em;
 }
 
 .container {
@@ -97,4 +141,8 @@ table {
 
 .interactive {
   background-color: white;
+}
+
+.bold {
+	font-weight: bold;
 }
