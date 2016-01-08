@@ -27,4 +27,31 @@ $(document).ready(function() {
     trigger: 'click',
     autoSize: false
   });
+
+  var cards = $(".card");
+  var golden_button = $(".golden_button"),
+      richt_button = $(".richt_button");
+
+  function flipCards(cards, keyword, option) {
+    var currentCard;
+
+    // Iterates over all cards.
+    for (var i = 0; i < cards.length; i++) {
+      currentCard = $(cards[i]);
+
+      // Flips current card if the class contains the keyword
+      if (currentCard.hasClass(keyword)) {
+        $(".slider").flip(option);
+      }
+    }
+  }
+
+  golden_button.on("click", function() {
+    flipCards(cards, "golden", false);
+  })
+
+  richt_button.on("click", function() {
+    flipCards(cards, "richt", true);
+  })
+
 })

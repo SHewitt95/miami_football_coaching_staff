@@ -57,7 +57,32 @@ table {
   margin: 0 auto;
   display: block;
   overflow: hidden;
+	font-family: "Open Sans", "Arial", sans-serif;
 }
+
+.main_title {
+	font-size: 2.5em;
+	text-align: center;
+	margin-top: 1em;
+}
+
+.coach_button_container {
+	margin-top: 1.5em;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+.button {
+	padding: 0.2em;
+}
+
+.button:hover {
+	cursor: pointer;
+	background-color: #e5904e; /* TMH Orange */
+	border-radius: 0.5em;
+}
+
+
 
 .row {
   width: 100%;
@@ -114,7 +139,7 @@ table {
 .card .content ul li {
 	line-height: 1.35;
 	font-size: 1.75em;
-	font-family: "Open Sans", "Arial", sans-serif;
+
 }
 
 .card .content ul .coach {
@@ -145,4 +170,11 @@ table {
 
 .bold {
 	font-weight: bold;
+}
+
+/******************************** Mobile CSS ********************************/
+@media (max-width: 860px) {
+
+
+
 }
