@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Miami Hurricanes Coaching Staff</title>
+  <link rel="stylesheet" href="main.css" />
+</head>
+
+<body>
+  <div class="container">
+    <h1 class="main_title">Miami Hurricanes' Football Staff, Then and Now</h1>
+    <div class="coach_button_container">
+      <p>Click or tap individual cards to flip between the former and new coaches. The buttons below flip all cards at once.</p>
+      <div class="buttons"><span class="golden_button button">Golden's Staff</span> | <span class="richt_button button">Richt's Staff</span></div> <!-- End buttons -->
+    </div> <!-- End coach_button_container -->
+    <!--div class="tip">N/A = Position did not exist<br/> ??? = Information unavailable</div-->
+    <div class="interactive">
+
+      <!-- Content Will Load Here -->
+
+    </div> <!-- End interactive -->
+    <div class="row">
+      <p class="footer">Design and Development by Sherman Hewitt</p>
+    </div>
+  </div> <!-- End container -->
+
+  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script src="https://cdn.rawgit.com/nnattawat/flip/v1.0.19/dist/jquery.flip.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ractive/0.7.3/ractive.min.js"></script>
+  <script src="golden_richt5.js"></script>
+  <script src="main.js"></script>
+
+  <script type="text/html" id="row-template">
+    {{#each role}}
+    <div class="row">
+      <div class="slider">
+        <div class="card golden front">
+          <div class="info img_box">
+            <img alt="Mugshot" src="man_silhouette_clip_art_9510.jpg" />
+          </div>
+          <div class="info content">
+            <ul>
+              <li><span class="bold">Position:</span> {{this.Position_G}}</li>
+              <li><span class="bold">{{this.Head_Coach_G}}:</span> {{this.Name_G}}</li>
+              <li><span class="bold">Career future:</span> {{this.Future}}</li>
+            </ul>
+          </div>
+        </div> <!-- End golden -->
+
+        <div class="card richt back">
+          <div class="info img_box">
+            <img alt="Mugshot" src="man_silhouette_clip_art_9510.jpg" />
+          </div>
+          <div class="info content">
+            <ul>
+              <li><span class="bold">Position:</span> {{this.Position_R}}</li>
+              <li><span class="bold">{{this.Head_Coach_R}}:</span> {{this.Name_R}}</li>
+              <li><span class="bold">Last job:</span> {{this.Origin}}</li>
+            </ul>
+          </div>
+        </div> <!-- End richt -->
+      </div> <!-- End slider -->
+    </div> <!-- End row -->
+    {{/each}}
+  </script> <!-- End row-template -->
+
+
+</body>
+</html>
