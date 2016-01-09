@@ -149,8 +149,9 @@ table {
 	/*left: 16.15em;*/
 	width: 65%;
 	height: 100%;
-	bottom: 5em;
+	bottom: 3.25em;
 	padding-left: 1em;
+	padding-top: 1.5em;
 }
 
 .card .content ul {
