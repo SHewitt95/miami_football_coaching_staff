@@ -199,7 +199,21 @@ table {
 }
 
 /******************************** Mobile CSS ********************************/
-@media (max-width: 860px) {
+@media (max-width: 859px) { /* Middle of screen width spectrum */
+
+	.card .content {
+		font-size: 0.75em;
+		bottom: 5em;
+	}
+
+	.card {
+		height: 200px;
+		width: 100%;
+		left: 0;
+	}
+}
+
+@media (max-width: 660px) { /* Lower end of screen width spectrum */
 
 	.slider {
 		width: 100%;
