@@ -58,6 +58,7 @@ table {
   display: block;
   overflow: hidden;
 	font-family: "Open Sans", "Arial", sans-serif;
+	font-size: 16px;
 }
 
 .main_title {
@@ -146,7 +147,6 @@ table {
 }
 
 .card .content {
-	/*left: 16.15em;*/
 	width: 65%;
 	height: 100%;
 	bottom: 3.25em;
@@ -203,7 +203,7 @@ table {
 
 	.slider {
 		width: 100%;
-		height: 275px;
+		height: 320px;
 	}
 
 	.card {
@@ -221,9 +221,9 @@ table {
 	}
 
 	.card .content {
-		bottom: 16em;
+		bottom: 18em;
 		width: 100%;
-		font-size: 1.05em;
+		font-size: 0.9em;
 		padding-left: 0.25em;
 		padding-right: 0.25em;
 	}
