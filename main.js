@@ -1,27 +1,20 @@
 "use strict"
 
 $(document).ready(function() {
-/*
-  var golden = $(".golden"),
-      richt = $(".richt");
 
-  function changeCard(event) {
-    var card = $(this);
 
-    if (card.hasClass("golden")) {
-      card.css("left", "-9999em");
-      richt.css("left", "15%");
-    } else {
-      card.css("left", "9999em");
-      golden.css("left", "15%");
+  /*************************************** Loads in all former and new Coaches ***************************************/
+
+  var app = new Ractive({
+    el: ".interactive",
+    template: "#row-template",
+    data: {
+      role: role
     }
+  });
 
-  }
-
-  golden.on("click", changeCard);
-  richt.on("click", changeCard);
-*/
-
+/*************************************** Adds card flip functionality ***************************************/
+  // Initializes flip.js functionality
   $(".slider").flip({
     axis: 'y',
     trigger: 'click',
@@ -32,6 +25,7 @@ $(document).ready(function() {
   var golden_button = $(".golden_button"),
       richt_button = $(".richt_button");
 
+  // Implements flip-all-cards-at-once functionality.
   function flipCards(cards, keyword, option) {
     var currentCard;
 
@@ -44,14 +38,9 @@ $(document).ready(function() {
         $(".slider").flip(option);
       }
     }
-  }
+  } // End flipCards function
 
-  golden_button.on("click", function() {
-    flipCards(cards, "golden", false);
-  })
-
-  richt_button.on("click", function() {
-    flipCards(cards, "richt", true);
-  })
+  golden_button.on("click", function() { flipCards(cards, "golden", false); })
+  richt_button.on("click", function() { flipCards(cards, "richt", true); })
 
 })
