@@ -213,7 +213,7 @@ table {
 	}
 }
 
-@media (max-width: 600px) { /* Lower end of screen width spectrum */
+@media (max-width: 590px) { /* Lower end of screen width spectrum */
 
 	.slider {
 		width: 100%;
