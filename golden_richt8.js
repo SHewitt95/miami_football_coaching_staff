@@ -4,227 +4,227 @@ role = [
     "Name_G":"Al Golden",
     "Position_G":"Head Coach",
     "Future":"Unknown",
-    "img_G":"",
+    "img_G":"img/Al_Golden.jpeg",
     "Head_Coach_R":"Richt's Staff",
     "Name_R":"Mark Richt",
     "Position_R":"Head Coach",
     "Origin":"Head Coach at UGA",
-    "img_R":""
+    "img_R":"img/Mark_Richt.jpg"
   },
   {
     "Head_Coach_G":"Golden's Staff",
     "Name_G":"Al Golden",
     "Position_G":"Special Teams Coordinator",
     "Future":"Unknown",
-    "img_G":"",
+    "img_G":"img/Al_Golden.jpeg",
     "Head_Coach_R":"Richt's Staff",
     "Name_R":"Todd Hartley",
     "Position_R":"Special Teams Coordinator",
     "Origin":"Director of Player Personnel at UGA",
-    "img_R":""
+    "img_R":"img/Todd_Hartley.jpeg"
   },
   {
     "Head_Coach_G":"Golden's Staff",
     "Name_G":"Andreu Swasey",
-    "Position_G":"Head Strength and Conditioning Coach",
+    "Position_G":"Head Strength, Conditioning Coach",
     "Future":"Unknown",
-    "img_G":"",
+    "img_G":"img/Andreu_Swasey.jpg",
     "Head_Coach_R":"Richt's Staff",
-    "Name_R":"Unknown",
-    "Position_R":"Head Strength and Conditioning Coach",
-    "Origin":"Unknown",
-    "img_R":""
+    "Name_R":"Gus Felder",
+    "Position_R":"Head Strength, Conditioning Coach",
+    "Origin":"Assistant Director of Strength, Conditioning at UGA",
+    "img_R":"img/Gus_Felder.jpeg"
   },
   {
     "Head_Coach_G":"Golden's Staff",
     "Name_G":"Art Kehoe",
     "Position_G":"Offensive Line",
     "Future":"Unknown",
-    "img_G":"",
+    "img_G":"img/Art_Kehoe.jpg",
     "Head_Coach_R":"Richt's Staff",
     "Name_R":"Stacy Searels",
     "Position_R":"Offensive Line",
     "Origin":"Offensive Line coach at Virginia Tech",
-    "img_R":""
+    "img_R":"img/Stacy_Searels.jpeg"
   },
   {
     "Head_Coach_G":"Golden's Staff",
     "Name_G":"James Coley",
     "Position_G":"Offensive Coordinator",
     "Future":"Wide Receivers coach at UGA",
-    "img_G":"",
+    "img_G":"img/James_Coley.jpg",
     "Head_Coach_R":"Richt's Staff",
     "Name_R":"Thomas Brown",
     "Position_R":"Co-offensive Coordinator",
     "Origin":"Running Backs coach at UGA",
-    "img_R":""
+    "img_R":"img/Thomas_Brown.jpeg"
   },
   {
     "Head_Coach_G":"Golden's Staff",
     "Name_G":"James Coley",
     "Position_G":"Quarterbacks",
     "Future":"Wide Receivers coach at UGA",
-    "img_G":"",
+    "img_G":"img/James_Coley.jpg",
     "Head_Coach_R":"Richt's Staff",
     "Name_R":"Jon Richt",
     "Position_R":"Quarterbacks",
     "Origin":"Offensive Assistant at the Buffalo Bills",
-    "img_R":""
+    "img_R":"img/Jon_Richt.jpeg"
   },
   {
     "Head_Coach_G":"Golden's Staff",
     "Name_G":"Hurlie Brown",
     "Position_G":"Inside Linebackers",
     "Future":"Unknown",
-    "img_G":"",
+    "img_G":"img/Hurlie_Brown.jpg",
     "Head_Coach_R":"Richt's Staff",
     "Name_R":"Manny Diaz",
     "Position_R":"Linebackers",
     "Origin":"Defensive Coordinator at Mississippi State",
-    "img_R":""
+    "img_R":"img/Manny_Diaz.jpg"
   },
   {
     "Head_Coach_G":"Golden's Staff",
     "Name_G":"Kareem Brown",
     "Position_G":"Outside Linebackers",
     "Future":"Unknown",
-    "img_G":"",
+    "img_G":"img/Kareem_Brown.jpg",
     "Head_Coach_R":"Richt's Staff",
     "Name_R":"Manny Diaz",
     "Position_R":"Linebackers",
     "Origin":"Defensive Coordinator at Mississippi State",
-    "img_R":""
+    "img_R":"img/Manny_Diaz.jpg"
   },
   {
     "Head_Coach_G":"Golden's Staff",
     "Name_G":"Kevin Beard",
     "Position_G":"Wide Receivers",
     "Future":"Unknown",
-    "img_G":"",
+    "img_G":"img/Kevin_Beard.jpg",
     "Head_Coach_R":"Richt's Staff",
-    "Name_R":"Unknown",
+    "Name_R":"Ron Dugans",
     "Position_R":"Wide Receivers",
-    "Origin":"Unknown",
-    "img_R":""
+    "Origin":"Receivers coach at USF",
+    "img_R":"img/Ron_Dugans.jpg"
   },
   {
     "Head_Coach_G":"Golden's Staff",
     "Name_G":"Larry Scott",
     "Position_G":"Run Game Coordinator",
-    "Future":"Tight Ends coach at University of Tennessee",
-    "img_G":"",
+    "Future":"Tight Ends coach at UT",
+    "img_G":"img/Larry_Scott.jpg",
     "Head_Coach_R":"Richt's Staff",
     "Name_R":"Unknown",
     "Position_R":"Run Game Coordinator",
     "Origin":"Unknown",
-    "img_R":""
+    "img_R":"man_silhouette_clip_art_9510.jpg"
   },
   {
     "Head_Coach_G":"Golden's Staff",
     "Name_G":"Larry Scott",
     "Position_G":"Tight Ends",
-    "Future":"Tight Ends coach at University of Tennessee",
-    "img_G":"",
+    "Future":"Tight Ends coach at UT",
+    "img_G":"img/Larry_Scott.jpg",
     "Head_Coach_R":"Richt's Staff",
     "Name_R":"Todd Hartley",
     "Position_R":"Tight Ends",
     "Origin":"Director of Player Personnel at UGA",
-    "img_R":""
+    "img_R":"img/Todd_Hartley.jpeg"
   },
   {
     "Head_Coach_G":"Golden's Staff",
     "Name_G":"Mark D'Onofrio",
     "Position_G":"Assistant Head Coach",
     "Future":"Defensive Coordinator at Purdue",
-    "img_G":"",
+    "img_G":"img/Mark_DOnofrio.jpg",
     "Head_Coach_R":"Richt's Staff",
     "Name_R":"Unknown",
     "Position_R":"Assistant Head Coach",
     "Origin":"Unknown",
-    "img_R":""
+    "img_R":"man_silhouette_clip_art_9510.jpg"
   },
   {
     "Head_Coach_G":"Golden's Staff",
     "Name_G":"Mark D'Onofrio",
     "Position_G":"Defensive Coordinator",
     "Future":"Defensive Coordinator at Purdue",
-    "img_G":"",
+    "img_G":"img/Mark_DOnofrio.jpg",
     "Head_Coach_R":"Richt's Staff",
     "Name_R":"Manny Diaz",
     "Position_R":"Defensive Coordinator",
     "Origin":"Defensive Coordinator at Mississippi State",
-    "img_R":""
+    "img_R":"img/Manny_Diaz.jpg"
   },
   {
     "Head_Coach_G":"Golden's Staff",
     "Name_G":"None",
     "Position_G":"Cornerbacks",
     "Future":"None",
-    "img_G":"",
+    "img_G":"man_silhouette_clip_art_9510.jpg",
     "Head_Coach_R":"Richt's Staff",
     "Name_R":"Mike Rumph",
     "Position_R":"Cornerbacks",
     "Origin":"Head Coach at American Heritage High School",
-    "img_R":""
+    "img_R":"man_silhouette_clip_art_9510.jpg"
   },
   {
     "Head_Coach_G":"Golden's Staff",
     "Name_G":"None",
     "Position_G":"Offensive Assistant",
     "Future":"None",
-    "img_G":"",
+    "img_G":"man_silhouette_clip_art_9510.jpg",
     "Head_Coach_R":"Richt's Staff",
     "Name_R":"Jon Richt",
     "Position_R":"Offensive Assistant",
     "Origin":"Offensive Assistant at the Buffalo Bills",
-    "img_R":""
+    "img_R":"img/Jon_Richt.jpeg"
   },
   {
     "Head_Coach_G":"Golden's Staff",
     "Name_G":"None",
     "Position_G":"Safeties",
     "Future":"None",
-    "img_G":"",
+    "img_G":"man_silhouette_clip_art_9510.jpg",
     "Head_Coach_R":"Richt's Staff",
     "Name_R":"Ephraim Banda",
     "Position_R":"Safeties",
     "Origin":"Defensive Assistant at Mississippi State",
-    "img_R":""
+    "img_R":"img/Ephraim_Banda.jpg"
   },
   {
     "Head_Coach_G":"Golden's Staff",
     "Name_G":"Paul Williams",
     "Position_G":"Defensive Backs",
-    "Future":"Defensive Backs coach at University of Illinois",
-    "img_G":"",
+    "Future":"Defensive Backs coach at Illinois",
+    "img_G":"img/Paul_Williams.jpg",
     "Head_Coach_R":"Richt's Staff",
     "Name_R":"Unknown",
     "Position_R":"Defensive Backs",
     "Origin":"Unknown",
-    "img_R":""
+    "img_R":"man_silhouette_clip_art_9510.jpg"
   },
   {
     "Head_Coach_G":"Golden's Staff",
     "Name_G":"Randy Melvin",
     "Position_G":"Defensive Line",
     "Future":"Defensive Line coach at Purdue",
-    "img_G":"",
+    "img_G":"img/Randy_Melvin.jpg",
     "Head_Coach_R":"Richt's Staff",
     "Name_R":"Craig Kuligowski",
     "Position_R":"Defensive Line",
-    "Origin":"Defensive Line coach at the University of Missouri",
-    "img_R":""
+    "Origin":"Defensive Line coach at Mizzou",
+    "img_R":"img/Craig_Kuligowski.jpg"
   },
   {
     "Head_Coach_G":"Golden's Staff",
     "Name_G":"Tim \"Ice\" Harris",
     "Position_G":"Running Backs",
     "Future":"Unknown",
-    "img_G":"",
+    "img_G":"img/Tim_Harris.jpg",
     "Head_Coach_R":"Richt's Staff",
     "Name_R":"Thomas Brown",
     "Position_R":"Running Backs",
     "Origin":"Running Backs coach at UGA",
-    "img_R":""
+    "img_R":"img/Thomas_Brown.jpeg"
   }
 ]
