@@ -51,8 +51,8 @@ table {
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 .container, .interactive {
-  width: 100%;
-	min-width: 100%;
+  width: 90%;
+	min-width: 90%;
   height: auto;
   margin: 0 auto;
   display: block;
