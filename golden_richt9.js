@@ -1,4 +1,4 @@
-[
+role = [
   {
     "Head_Coach_G":"Golden's Staff",
     "Name_G":"Al Golden",
