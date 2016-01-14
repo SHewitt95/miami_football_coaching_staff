@@ -123,6 +123,7 @@ table {
 .card {
   width: 70%;
   height: 225px;
+	max-width: 825px;
   background-color: #e5904e; /* TMH Orange */
   border: 5px solid #234e22; /* TMH Green */
   margin: 1em auto;
