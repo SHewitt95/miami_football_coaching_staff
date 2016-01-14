@@ -53,13 +53,16 @@ table {
 .container, .interactive {
   width: 90%;
 	min-width: 90%;
-	max-width: 1215px;
   height: auto;
   margin: 0 auto;
   display: block;
   overflow: hidden;
 	font-family: "Open Sans", "Arial", sans-serif;
 	font-size: 16px;
+}
+
+.interactive {
+	max-width: 1162px;
 }
 
 .main_title {
