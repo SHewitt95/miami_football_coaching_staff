@@ -116,7 +116,7 @@ role = [
     "Head_Coach_R":"Richt's Staff",
     "Name_R":"Ron Dugans",
     "Position_R":"Passing Game Coordinator",
-    "Origin":"Unknown",
+    "Origin":"Receivers coach at USF",
     "img_R":"img/Ron_Dugans.jpg"
   },
   {
