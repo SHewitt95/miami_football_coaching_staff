@@ -1,4 +1,4 @@
-role = [
+[
   {
     "Head_Coach_G":"Golden's Staff",
     "Name_G":"Al Golden",
@@ -114,10 +114,10 @@ role = [
     "Future":"Tight Ends coach at UT",
     "img_G":"img/Larry_Scott.jpg",
     "Head_Coach_R":"Richt's Staff",
-    "Name_R":"Unknown",
-    "Position_R":"Run Game Coordinator",
+    "Name_R":"Ron Dugans",
+    "Position_R":"Passing Game Coordinator",
     "Origin":"Unknown",
-    "img_R":"man_silhouette_clip_art_9510.jpg"
+    "img_R":"img/Ron_Dugans.jpg"
   },
   {
     "Head_Coach_G":"Golden's Staff",
@@ -165,7 +165,7 @@ role = [
     "Name_R":"Mike Rumph",
     "Position_R":"Cornerbacks",
     "Origin":"Head Coach at American Heritage High School",
-    "img_R":"man_silhouette_clip_art_9510.jpg"
+    "img_R":"img/Mike_Rumph.jpg"
   },
   {
     "Head_Coach_G":"Golden's Staff",
